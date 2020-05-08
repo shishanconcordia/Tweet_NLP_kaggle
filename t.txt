@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 
-=======
 hello!!
->>>>>>> 47bfe1a0abd83ec646a562244c2fec8dba9ed9ca
+
